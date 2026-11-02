@@ -1,0 +1,14 @@
+.inputc{
+    text-align: center;
+}
+input{
+    width: 200px;
+    border: 1px solid black;   
+    border-radius: 5px;
+}
+button{
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+}
